@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Node 1",
+    "address": "http://localhost:8080"
+  },
+  {
+    "id": 2,
+    "name": "Node 2",
+    "address": "http://localhost:8081"
+  },
+  {
+    "id": 3,
+    "name": "Node 3",
+    "address": "http://localhost:8082"
+  },
+  {
+    "id": 4,
+    "name": "Node 4",
+    "address": "http://localhost:8083"
+  }
+]
